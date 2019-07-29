@@ -21,6 +21,10 @@
   },
   "homepage": "https://github.com/MorijunHack/questioning-dapps#readme",
   "dependencies": {
+    "chai": "^4.2.0",
+    "chai-as-promised": "^7.1.1",
+    "chai-bignumber": "^3.0.0",
+    "mocha": "^6.2.0",
     "openzeppelin-solidity": "^1.12.0"
   }
 }
